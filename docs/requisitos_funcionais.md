@@ -22,7 +22,7 @@
 * **Segurança:** Controle de acesso e proteção de dados financeiros sensíveis.
 * **Resiliência e Recuperabilidade:** Implementação de mecanismos de indisponibilidade controlada e recuperação automática após falhas.
 
-### 2.2. Características Implícitas (Direcionadores de Arquitetura)
+### Implícitas 
 * **Confiabilidade:** Garantia de que as mensagens e ordens roteadas não sejam perdidas em trânsito, mantendo o comportamento do sistema previsível para garantir a confiança do investidor e mitigar o impacto reputacional.
 * **Elasticidade:** Capacidade de escalar instâncias automaticamente durante picos repentinos de volumetria de usuários e requisições, característicos dos horários de abertura e fechamento do mercado.
 * **Agilidade (Testabilidade e Implantabilidade):** Estruturação que permita evolução contínua, testes automatizados confiáveis e deploys seguros sem interrupção prolongada da plataforma de negociação.
